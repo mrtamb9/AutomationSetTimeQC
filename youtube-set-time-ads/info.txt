@@ -1,0 +1,5 @@
+username=mrtamb9@gmail.com
+password=Tambk1209
+
+time=1:00, 3:00, 7:00, 13:00
+keywords=test, hd
